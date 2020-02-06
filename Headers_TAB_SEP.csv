@@ -1,0 +1,10 @@
+File_Name	Headers
+dea.dos	deaClassCode,deaClassDesc
+EXDRUG.dos	exceptionalDrug,exceptionalDrugDesc
+EXPGENRC.dos	gcrCode,gcrExpName
+EXPSTREN.dos	strengthCode,strengthExpName
+FORM.dos	formCode,masterFormCode,formDesc
+GCR.dos	gcrCode,gcrName
+GFC.dos	gfc,gfcMasterCode,gcrCode,formCode,strengthCode,roaCode,gfcDeact
+JCODE.dos	J_CODE,J_CODE_Desc,ndc,PRODUCT_NAME
+LBL_Y2K.dos	mfgCode,labelerCode,rebateStatus,rebateEffectiveDate,rebateTerminationDate
